@@ -22,15 +22,11 @@ git clone https://github.com/jasarevicarijan/todo-app.git
 ### Install packages
 
 ```shell
-npm i
+npm install
 ```
 
 ### Start the app
 
 ```shell
-npm install -g live-server
+npm run dev
 ```
-```shell
-live-server
-```
-Navigate to public folder.
