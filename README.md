@@ -28,5 +28,8 @@ npm i
 ### Start the app
 
 ```shell
-npm start
+npm install -g live-server
+```
+```shell
+live-server pblic/index.html
 ```
