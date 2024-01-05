@@ -31,5 +31,6 @@ npm i
 npm install -g live-server
 ```
 ```shell
-live-server pblic/index.html
+live-server
 ```
+Navigate to public folder.
